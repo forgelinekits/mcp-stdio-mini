@@ -1,0 +1,2 @@
+{ "name": "mcp-stdio-mini", "version": "1.0.0", "type": "module", "license": "MIT", "bin": { "mcp-stdio-mini": "server.js" },
+  "engines": { "node": ">=20" }, "scripts": { "start": "node server.js", "test": "node --test test/" } }
